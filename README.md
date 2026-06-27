@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=Navadeepbudime&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="mailto:budime.navadeep@gmail.com"><img src="https://img.shields.io/badge/Email-budime.navadeep%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Navadeepbudime"><img src="https://img.shields.io/badge/GitHub-Navadeepbudime-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="PASTE_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="PASTE_LEETCODE_URL_HERE"><img src="https://img.shields.io/badge/LeetCode-320%2B%20Problems-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ## About Me
@@ -122,6 +124,8 @@ CGPA: 8.4
 <p align="left">
   <a href="mailto:budime.navadeep@gmail.com"><img src="https://img.shields.io/badge/Email-budime.navadeep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Navadeepbudime"><img src="https://img.shields.io/badge/GitHub-Navadeepbudime-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="PASTE_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-Navadeep%20Budime-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="PASTE_LEETCODE_URL_HERE"><img src="https://img.shields.io/badge/LeetCode-320%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 Thanks for visiting my profile. I am always open to learning, collaborating, and building meaningful software products.
