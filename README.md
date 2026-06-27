@@ -112,10 +112,6 @@ Voice-controlled IoT automation system for real-time vehicle control and intelli
   <img src="https://streak-stats.demolab.com?user=Navadeepbudime&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navadeepbudime&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ## Certifications
 
 - KMIT Project School Certification - Automated Interview Question Generator Using NLP
