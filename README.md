@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=Navadeepbudime&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="mailto:budime.navadeep@gmail.com"><img src="https://img.shields.io/badge/Email-budime.navadeep%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Navadeepbudime"><img src="https://img.shields.io/badge/GitHub-Navadeepbudime-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="PASTE_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="PASTE_LEETCODE_URL_HERE"><img src="https://img.shields.io/badge/LeetCode-350%2B%20Problems-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/budime-navadeep/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/NavadeepBudime/"><img src="https://img.shields.io/badge/LeetCode-350%2B%20Problems-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ## About Me
@@ -101,15 +101,19 @@ Voice-controlled IoT automation system for real-time vehicle control and intelli
 - Created scalable workflows for intelligent automation and real-time response handling
 - Tech: MERN Stack, Node.js, Express.js, MongoDB, React.js
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Navadeepbudime&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeepbudime&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navadeepbudime&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeepbudime&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Navadeepbudime&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Navadeepbudime&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navadeepbudime&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## Certifications
@@ -128,8 +132,8 @@ CGPA: 8.4
 <p align="left">
   <a href="mailto:budime.navadeep@gmail.com"><img src="https://img.shields.io/badge/Email-budime.navadeep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Navadeepbudime"><img src="https://img.shields.io/badge/GitHub-Navadeepbudime-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="PASTE_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-Navadeep%20Budime-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="PASTE_LEETCODE_URL_HERE"><img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/budime-navadeep/"><img src="https://img.shields.io/badge/LinkedIn-Navadeep%20Budime-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/NavadeepBudime/"><img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 Thanks for visiting my profile. I am always open to learning, collaborating, and building meaningful software products.
