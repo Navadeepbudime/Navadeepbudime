@@ -103,10 +103,10 @@ Voice-controlled IoT automation system for real-time vehicle control and intelli
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navadeepbudime&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navadeepbudime&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Navadeepbudime&theme=tokyonight&hide_border=true&cache_seconds=86400" />
