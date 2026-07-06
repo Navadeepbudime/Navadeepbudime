@@ -109,7 +109,7 @@ Voice-controlled IoT automation system for real-time vehicle control and intelli
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Navadeepbudime&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Navadeepbudime&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
